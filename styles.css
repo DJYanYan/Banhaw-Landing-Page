@@ -1,0 +1,68 @@
+/* FONTS */
+/* font-family: 'Aref Ruqaa Ink', serif;
+font-family: 'Work Sans', sans-serif; */
+
+section {
+    padding: 0px 100px 0px;
+}
+
+.colored {
+    text-align: center;
+    background-color: #BBE1FA;
+    padding: 50px 0;
+}
+
+.white {
+    text-align: center;
+    background-color: white;
+    padding: 50px 0;
+}
+
+p, .nav-item {
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1, h2, .navbar-brand {
+    font-family: 'Aref Ruqaa Ink', serif;
+}
+
+.navbar {
+    background-color: #3282B8;
+}
+
+.nav-link, .navbar-brand {
+    color: white !important;
+}
+
+.nav-item {
+    padding: 0 20px;
+}
+
+#home {
+    text-align: left;
+    padding: 0 50px 0;
+}
+
+.hometext {
+    padding-top: 100px;
+}
+
+.hometext h1 {
+    font-size: 55px;
+}
+
+.homedesc {
+    padding: 50px 0 30px ;
+}
+
+.homebtn {
+    padding: 25px 0;
+}
+
+#testimonial-slide {
+    padding: 0 !important;
+}
+
+#footer {
+    text-align: left;
+}
