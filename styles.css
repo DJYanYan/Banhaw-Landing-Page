@@ -2,6 +2,8 @@
 /* font-family: 'Aref Ruqaa Ink', serif;
 font-family: 'Work Sans', sans-serif; */
 
+@import url();
+
 section {
     padding: 0px 100px 0px;
 }
@@ -56,7 +58,36 @@ h1, h2, .navbar-brand {
 }
 
 .homebtn {
-    padding: 25px 0;
+    margin: 5px 0 15px;
+}
+
+#about, #features {
+    padding: 50px 200px;
+}
+
+.aboutheader {
+    padding: 20px 0 50px;
+}
+
+.featureicon {
+    width: 100px;
+    margin: 50px 0 30px;
+}
+
+#plans {
+    margin: 30px 150px
+}
+
+.plantext {
+    padding: 0 0 70px;
+}
+
+.xmark {
+    color: tomato;
+}
+
+.check {
+    color: rgb(69, 243, 135);
 }
 
 #testimonial-slide {
@@ -64,5 +95,7 @@ h1, h2, .navbar-brand {
 }
 
 #footer {
-    text-align: left;
+    padding: 50px 0 50px 20px;
+    background-color: #3282B8;
+    color: white;
 }
