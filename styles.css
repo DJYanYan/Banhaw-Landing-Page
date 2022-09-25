@@ -54,15 +54,15 @@ h1, h2, .navbar-brand {
 }
 
 .homedesc {
-    padding: 50px 0 30px ;
+    padding: 30px 0 30px ;
 }
 
 .homebtn {
     margin: 5px 0 15px;
 }
 
-#about, #features {
-    padding: 50px 200px;
+#about, #features{
+    padding: 120px 200px;
 }
 
 .aboutheader {
@@ -90,12 +90,41 @@ h1, h2, .navbar-brand {
     color: rgb(69, 243, 135);
 }
 
-#testimonial-slide {
-    padding: 0 !important;
+.carousel {
+    margin: 100px;
+}
+
+.carousel-inner {
+    padding: 0 80px;
+}
+
+.carouselPic {
+    width: 120px;
+    border-radius: 100px;
+    margin: 20px;
+}
+
+#cta {
+    padding: 150px;
+}
+
+#cta h1 {
+    font-size: 80px;
+    padding: 0 0 70px;
+}
+
+.ctaButton {
+    font-size: 100px;
 }
 
 #footer {
-    padding: 50px 0 50px 20px;
+    padding: 50px 0 100px 20px;
     background-color: #3282B8;
     color: white;
+}
+
+.footerLink {
+    text-decoration: none;
+    color: white;
+    line-height: 40px;
 }
